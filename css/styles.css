@@ -103,7 +103,7 @@ a:hover, a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(http://mrmixandmaster.com/wp-content/uploads/2014/02/VDE_Miami_Recording_Studio.png) no-repeat bottom center scroll;
+    background: url('../images/l_img1.png') no-repeat bottom center scroll;
     background-color: #000;
     background-size: 100% 100%;
 }
@@ -166,7 +166,7 @@ a:hover, a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/music-staff_b1d89oyes__S0000.jpg);
+    background: url(../images/l_img2.jpg);
     background-color: #808080;
 }
 
@@ -225,5 +225,3 @@ footer p {
 img::selection {
     background: 0 0;
 }
-
-
